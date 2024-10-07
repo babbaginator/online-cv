@@ -76,7 +76,7 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-     - degree: MLIS in Library and Information Studies
+      - degree: MLIS in Library and Information Studies
         university: University of British Columbia
         time: 2023-2025
         details: |
@@ -87,7 +87,7 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-     - degree: MFA in Creative Writing
+      - degree: MFA in Creative Writing
         university: University of California, Riverside
         time: 2004-2006
         details: |
