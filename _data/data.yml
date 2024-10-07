@@ -15,16 +15,16 @@ sidebar:
     # Sidebar links
     email: neil.aitken@gmail.com
     phone: 306-596-1264
-    timezone: America/Los Angeles
+    timezone: Canada/Vancouver
     citizenship:
     website: https://neil-aitken.com
-    linkedin: alandoe
-    xing: alandoe
-    github: jekyll
+    linkedin: neilaitken1
+    xing: 
+    github: babbaginator
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@jekyllrb'
+    twitter: '@neil_aitken'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -39,19 +39,15 @@ sidebar:
         - idiom: English
           level: Native
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
-
+        - idiom: Mandarin Chinese
+          level: Advanced       
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Creative Writing
           link:
 
-        - item: Snowboarding
+        - item: Dungeons & Dragons
           link:
 
         - item: Cooking
@@ -69,9 +65,9 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: PhD in Literature & Creative Writing
+        university: University of Southern California
+        time: 2007-2015
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -80,9 +76,31 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+     - degree: MLIS in Library and Information Studies
+        university: University of British Columbia
+        time: 2023-2025
+        details: |
+          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          sociis natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
+            - Bullet point
+            - Bullet point
+     - degree: MFA in Creative Writing
+        university: University of California, Riverside
+        time: 2004-2006
+        details: |
+          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          sociis natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
+            - Bullet point
+            - Bullet point
+      - degree: BSc in Computer Science
+        university: Brigham Young University
+        time: 1992, 1995-1999
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
