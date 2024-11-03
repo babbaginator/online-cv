@@ -78,7 +78,7 @@ education:
             - Bullet point
       - degree: MLIS in Library and Information Studies
         university: University of British Columbia
-        time: 2023-2025
+        time: |
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -89,7 +89,7 @@ education:
             - Bullet point
       - degree: MFA in Creative Writing
         university: University of California, Riverside
-        time: 2004-2006
+        time: |
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -100,7 +100,7 @@ education:
             - Bullet point
       - degree: BSc in Computer Science
         university: Brigham Young University
-        time: 1992, 1995-1999
+        time: |
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -113,24 +113,17 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+      - role: Digital Projects Specialist
+        time: 2024 - Present
+        company: DiSA, University of British Columbia, Vancouver, BC
+        details: Provide technical and strategic consultations to faculty and student researchers in the Arts & Humanities engaged in digital scholarship research and methods. 
+            - Use Python, Javascript, and other languages to bridge tools, solve workflow, and automate tedious tasks. 
+            - Bulk text OCR transcription and data cleaning
+            - Prototype Omeka, Wordpress, Scalar, and other installations
+            - Troubleshoot website and plugin update issues (usually in Javascript)
+      - role: Writer-in-Residence
+        time: 2022 - 2023
+        company: Regina Public Library, Regina, SK
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
